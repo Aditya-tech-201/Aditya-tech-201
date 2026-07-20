@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2><code>ADITYA KUMAR</code></h2>
+<h2><code>ADITYA KUMAR SINGH</code></h2>
 <p><code>AI Engineer • Full Stack Developer • Researcher</code></p>
 
 <h3><code>aditya@github ~ $ ./contributions.sh</code></h3>
